@@ -1,4 +1,5 @@
 # Best RDP / VPS hosting services
+* [InterServer](https://www.interserver.net/)
 * [Aeza](https://aeza.net/)
 * [Contabo](https://contabo.com/)
 * [HelioHost](https://heliohost.org/)
