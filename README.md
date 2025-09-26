@@ -9,3 +9,4 @@
 * [CloudServer](https://cloudserver.net/billing/index.php?rp=/store/custom-packages/leb-1gb-annual-plan)
 * [Al.uy](https://al.uy/)
 * [WaleHost](https://walehost.com/)
+* [NubiHost](https://nubihost.cloud/)
