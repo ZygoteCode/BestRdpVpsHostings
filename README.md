@@ -1,4 +1,5 @@
 # Best RDP / VPS hosting services
+* [VpsPriceTracker](https://vpspricetracker.com/)
 * [InterServer](https://www.interserver.net/)
 * [Aeza](https://aeza.net/)
 * [Contabo](https://contabo.com/)
@@ -10,3 +11,4 @@
 * [Al.uy](https://al.uy/)
 * [WaleHost](https://walehost.com/)
 * [NubiHost](https://nubihost.cloud/)
+* [Hosteroid](https://www.hosteroid.uk/cart.php?a=confproduct&i=2)
