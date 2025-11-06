@@ -1,5 +1,6 @@
 # Best RDP / VPS hosting services
 * [VpsPriceTracker](https://vpspricetracker.com/)
+* [Datalix](https://datalix.eu/)
 * [InterServer](https://www.interserver.net/)
 * [Aeza](https://aeza.net/)
 * [Contabo](https://contabo.com/)
