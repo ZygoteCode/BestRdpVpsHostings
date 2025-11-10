@@ -13,3 +13,4 @@
 * [WaleHost](https://walehost.com/)
 * [NubiHost](https://nubihost.cloud/)
 * [Hosteroid](https://www.hosteroid.uk/cart.php?a=confproduct&i=2)
+* [Offshore Hostings](https://offshore-cat.github.io/Offshore.CAT/)
